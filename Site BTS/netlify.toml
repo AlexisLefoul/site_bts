@@ -1,0 +1,5 @@
+[context.production.environment]
+  SITE_BTS_VERSION = "0.1"
+  
+[context.deploy-preview.environment]
+  SITE_BTS_VERSION = "0.1"
